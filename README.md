@@ -1,4 +1,4 @@
-# Crownd Number Detector Project
+# Crowd Number Detector Project
 
 <p>&emsp;&emsp;
   Following the outbreak of the COVID-19 virus, the Thai government implemented measures to restrict the occupancy of enclosed spaces as a preventive measure against the spread of the virus.
